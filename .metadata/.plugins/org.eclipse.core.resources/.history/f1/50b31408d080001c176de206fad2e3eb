@@ -1,0 +1,15 @@
+package com.Subhajit.Vertex_web;
+
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
+import io.vertx.ext.web.Router;
+
+public class WatchListRestApi {
+	private static final Logger LOG = LoggerFactory.getLogger(WatchListRestApi.class);
+	public static void attach(Router restApi) {
+
+		
+	}
+
+}

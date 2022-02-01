@@ -1,0 +1,16 @@
+package com.Subhajit.Vertex_web;
+
+import java.math.BigDecimal;
+
+import lombok.Builder;
+import lombok.Value;
+
+@Value
+@Builder
+public class Quote {
+	Asset asset;
+	BigDecimal bid;
+	BigDecimal ask;
+	BigDecimal lastPrice;
+	BigDecimal volume;
+}

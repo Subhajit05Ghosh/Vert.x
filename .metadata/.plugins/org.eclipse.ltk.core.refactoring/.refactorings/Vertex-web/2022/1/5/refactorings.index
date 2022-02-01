@@ -1,0 +1,8 @@
+1642967293162	Copy compilation unit
+1642967977460	Extract constant 'PORT'
+1642968166976	Extract local variable 'client'
+1643396977913	Extract method 'initRandomQuote'
+1643399184530	Copy compilation unit
+1643439270702	Extract local variable 'path'
+1643451709679	Copy compilation unit
+1643457535991	Extract method 'body'

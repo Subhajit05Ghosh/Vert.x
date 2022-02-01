@@ -1,0 +1,12 @@
+package com.Subhajit.Vertex_web;
+
+import io.vertx.ext.web.Router;
+
+public class WatchListRestApi {
+
+	public static void attach(Router restApi) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

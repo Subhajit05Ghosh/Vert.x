@@ -1,0 +1,10 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="io.vertx.core.Verticle"><rhs name\="com.example.starter.MainVerticle"/><rhs name\="com.example.starter.verticles.MainVerticle"/><rhs name\="com.example.starter.verticles.VerticleA"/><rhs name\="com.example.starter.verticles.VerticleAA"/><rhs name\="com.example.starter.verticles.VerticleN"/><rhs name\="com.Subhajit.Vertex_web.MainVerticle"/></lhs><lhs name\="java.lang.Iterable"><rhs name\="io.vertx.core.json.JsonObject"/></lhs><lhs name\="io.vertx.core.shareddata.impl.ClusterSerializable"><rhs name\="io.vertx.core.json.JsonObject"/></lhs><lhs name\="io.vertx.core.shareddata.Shareable"><rhs name\="io.vertx.core.json.JsonObject"/></lhs><lhs name\="io.vertx.core.json.JsonObject"><rhs name\="io.vertx.core.json.JsonObject"/></lhs><lhs name\="io.vertx.core.http.HttpClientOptions"><rhs name\="io.vertx.ext.web.client.WebClientOptions"/></lhs><lhs name\="io.vertx.core.net.ClientOptionsBase"><rhs name\="io.vertx.ext.web.client.WebClientOptions"/></lhs><lhs name\="io.vertx.core.net.TCPSSLOptions"><rhs name\="io.vertx.ext.web.client.WebClientOptions"/></lhs><lhs name\="io.vertx.core.net.NetworkOptions"><rhs name\="io.vertx.ext.web.client.WebClientOptions"/></lhs><lhs name\="io.vertx.ext.web.client.WebClientOptions"><rhs name\="io.vertx.ext.web.client.WebClientOptions"/></lhs><lhs name\="java.lang.Number"><rhs name\="java.math.BigDecimal"/></lhs><lhs name\="java.math.BigDecimal"><rhs name\="java.math.BigDecimal"/></lhs><lhs name\="java.util.Map"><rhs name\="java.util.HashMap"/></lhs><lhs name\="java.lang.Cloneable"><rhs name\="java.util.HashMap"/></lhs><lhs name\="java.util.AbstractMap"><rhs name\="java.util.HashMap"/></lhs><lhs name\="java.util.HashMap"><rhs name\="java.util.HashMap"/></lhs></history>
+content_assist_number_of_computers=15
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+org.eclipse.jdt.ui.formatterprofiles.version=21
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

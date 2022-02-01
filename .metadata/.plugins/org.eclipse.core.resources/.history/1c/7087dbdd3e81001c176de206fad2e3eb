@@ -1,0 +1,16 @@
+package com.Subhajit.Vertex_web;
+
+import java.util.List;
+
+import io.vertx.core.json.JsonObject;
+import lombok.Value;
+
+@Value
+public class WatchList {
+	List<Asset> asset;
+
+	JsonObject toJsonObject() {
+		return JsonObject.mapFrom(this);
+	}
+	//Maps the watchlist object to vertex json object
+}

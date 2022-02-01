@@ -1,0 +1,10 @@
+package com.Subhajit.Vertex_web;
+
+import java.util.List;
+
+import lombok.Value;
+
+@Value
+public class WatchList {
+private List <Asset> asset;
+}
