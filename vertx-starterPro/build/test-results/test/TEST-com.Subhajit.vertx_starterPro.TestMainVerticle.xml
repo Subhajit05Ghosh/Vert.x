@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.Subhajit.vertx_starterPro.TestMainVerticle" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-01-15T19:49:11" hostname="IN3155588W1" time="0.794">
-  <properties/>
-  <testcase name="verticle_deployed(Vertx, VertxTestContext)" classname="com.Subhajit.vertx_starterPro.TestMainVerticle" time="0.794"/>
-  <system-out><![CDATA[HTTP server started on port 8888
-]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
